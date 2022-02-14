@@ -1,6 +1,6 @@
 # Domain-Driven Hexagon
 
-Ilya Filippov Was 
+Ilya Filippov Was Here 
 Main emphasis of this project is to provide recommendations on how to design software applications. In this readme are presented some of the techniques, tools, best practices, architectural patterns and guidelines gathered from different sources.
 
 **Everything below should be seen as a recommendation**. Keep in mind that different projects have different requirements, so any pattern mentioned in this readme can be replaced or skipped if needed.
